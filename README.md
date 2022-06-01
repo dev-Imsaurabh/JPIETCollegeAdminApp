@@ -10,6 +10,7 @@
 
 
 <p align="center">
+   • <a href="#important-steps">Impotant steps</a>
   • <a href="#about">About</a>
   • <a href="#features">Features</a>
   • <a href="#technology-used">Technology Used</a>
@@ -18,7 +19,12 @@
 
 </p>
 
+## Important steps
+
 College User App Link :- https://github.com/dev-iamsaurabh/JPIETCollegeApp
+To use this project Add this project to your Firebase data base and download google-services.json file and pase it in the app.<br>
+Link for step by step adding of google-services.json file :-https://firebase.google.com/docs/android/setup<br>
+
 
 
 
