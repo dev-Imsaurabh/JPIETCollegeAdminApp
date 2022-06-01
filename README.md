@@ -20,7 +20,7 @@
 
 
 ## About
-This is sample app for College App base on Firebase Realtime Databse,where Admin can post Notice, PDF notes, College Event Photos, Add Faculty by department wise 
+This is sample app for College Admin App base on Firebase Realtime Databse,where Admin can post Notice, PDF notes, College Event Photos, Add Faculty by department wise 
 like CSE,Mechanical,Civil etc.
 You delete notice faculity anytime by admin app.(For optimization Database)
 This is the first app i have created with android studio. I believe in ,the best way to learn any new technology is project based approach. You can learn from any tutorial
